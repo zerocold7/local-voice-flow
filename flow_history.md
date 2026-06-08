@@ -241,3 +241,39 @@ Hotkey
 [06:11:21] [ENGLISH]
 Try to assist all the program and how it's work
 
+[06:28:33] [RAW]
+Is everything clear and ready? Make sure.
+
+[06:28:58] [POLISH]
+Is everything clear and ready? I want to make sure.
+
+[06:29:24] [TRANSLATE]
+هل كل شيء واضح وجاهز؟ أريد التأكد من أننا على نفس الصفحة.
+
+[06:29:56] [RAW]
+هل كل شيء واضح وجاهز؟ أبي أتأكد عشان نعرف حنا واضحيني علي إيش قاعدين نتكلم
+
+[06:30:24] [RAW]
+لو ابي اعرف يعني اشتقصد for example a clearer guidance
+
+[06:31:04] [RAW]
+ابي اعرف شلون انت قاعد تفكر يعني معقولة ما جف بالك ان الموضوع ده ممكن يخرب بكل بساطة Are you stupid?
+
+[06:32:09] [RAW]
+Can you explain to me the specific detail, how this is, should work, and what makes it accessible, for example, a clear guidance, a background, a checklist, etc. لكي نكون واضحين وعلى نفس الموضوع لا نضيع يمين وشمال
+
+[06:33:15] [POLISH]
+أريد أن أعرف ما هو الفرق بين "يمينك" و "على يمينك"، مع تقديم أمثلة وصور ومفاهيم جيدة، بالإضافة إلى التأكد من كل شيء.
+
+[06:34:54] [ENGLISH]
+Good, let's try to assess what happened. I did try a lot and give me how everything behaved and if there's anything executed correctly or there's some missing or mashup happened. Look at the log.
+
+[06:39:41] [TRANSLATE]
+كل شيء إيجابي وحدث بالضبط ما طلبناه.
+
+[06:40:12] [TRANSLATE]
+Is everything clear and understood from what I just said? We need to make sure we are all on the same page so that there are no problems.
+
+[06:42:05] [RAW]
+All good and clear. Now, I want to make sure that the file that should fill with the use over time didn't build up endlessly. and they're a hotkey to delete or clean, like the janitor in the log file, or the new vocabulary added after a long time, perhaps.
+
